@@ -1,2 +1,6 @@
 line one
 line two
+line three
+4
+5
+6
